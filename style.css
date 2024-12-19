@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(150, 239, 239);
+padding: 10px 10px;
+}
+
+#btn{
+    display: none;
+    padding-top: 40px;
+}
